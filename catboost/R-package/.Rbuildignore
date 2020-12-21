@@ -1,9 +1,0 @@
-ya.make
-\.o$
-\.so$
-\.dll$
-\.py$
-.lintr
-cran-comments.md
-catboost-R-package
-
