@@ -15,3 +15,7 @@ README.md
 RELEASE.md
 catboost_command_style_guide_extension.md
 ya.make
+
+contrib/libs/coreml
+contrib/libs/tensorboard
+contrib/python/scipy
