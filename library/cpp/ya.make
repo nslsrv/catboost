@@ -61,7 +61,6 @@ RECURSE(
     l2_distance
     l2_distance/ut
     langmask
-    langmask/proto
     langmask/serialization
     langmask/ut
     langs
@@ -113,12 +112,9 @@ RECURSE(
     token
     tokenizer
     tokenizer/ut
-    token/serialization
-    token/serialization/ut
     unicode
     yson
     yson/node
-    yson/node/pybind
 )
 
 IF (OS_LINUX)
